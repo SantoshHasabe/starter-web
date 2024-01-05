@@ -7,7 +7,7 @@ This is simple websit project for learning purpose of git.
 This is example of git repositry.
 
 ## Purpose
-
+Use for learn git
 
 ## Deployement
 
