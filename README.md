@@ -2,6 +2,8 @@
 
 This is simple websit project for learning purpose of git.
 
+Adding line for rebasing scenario.
+
 ## Introduction
 
 This is example of git repositry.
