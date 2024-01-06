@@ -3,6 +3,7 @@
 This is simple websit project for learning purpose of git.
 
 Adding line for rebasing scenario.
+more chnges from myfeature branch too
 
 ## Introduction
 
