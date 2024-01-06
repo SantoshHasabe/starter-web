@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Santosh Hasabe santosh@gmail.com
 
 # THANKS
 
