@@ -10,5 +10,5 @@ This is example of git repositry.
 Use for learn git
 
 ## Deployement
-
+All deployment
 ## How TO Contribute
