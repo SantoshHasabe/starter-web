@@ -12,7 +12,7 @@ Use for learn git
 ## Deployement
 All deployment
 ## How TO Contribute
-
+Please fork Repo
 ### Copyright
 
 2024 Git.Traning.
