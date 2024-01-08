@@ -18,4 +18,4 @@ All deployment
 Please fork Repo
 ### Copyright
 
-2024 Git.Traning.
+2024 Git.Traning. All reghts are reserved.
