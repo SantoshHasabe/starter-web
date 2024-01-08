@@ -6,6 +6,7 @@ Adding line for rebasing scenario.
 more chnges from myfeature branch too
 
 This an Updating emergency fix.
+This is an multi stash changes
 ## Introduction
 
 This is example of git repositry.
