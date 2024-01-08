@@ -5,6 +5,7 @@ This is simple websit project for learning purpose of git.
 Adding line for rebasing scenario.
 more chnges from myfeature branch too
 
+This an Updating emergency fix.
 ## Introduction
 
 This is example of git repositry.
